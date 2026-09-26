@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "description": "Lunch",
+        "amount": 200,
+        "category": "Food"
+    },
+    {
+        "id": 3,
+        "description": "Movie",
+        "amount": 450,
+        "category": "Entertainment"
+    },
+    {
+        "id": 4,
+        "description": "Go Karting",
+        "amount": 500,
+        "category": "Entertainment"
+    },
+    {
+        "id": 5,
+        "description": "Rapido",
+        "amount": 100,
+        "category": "Transport"
+    }
+]
